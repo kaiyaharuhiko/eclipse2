@@ -1,4 +1,8 @@
-
+/**
+ * add some
+ * @author kaiya
+ *
+ */
 public class Player {
 	private int hand;
 	public int getHand() {
