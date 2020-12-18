@@ -3,8 +3,12 @@ package kaiya;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
-
+		Test t = new Test();
+		t.say();
+	}
+	
+	public void say() {
+		System.out.println("hello by say method");
 	}
 
 }
