@@ -1,6 +1,6 @@
 /**
  * add some
- * @author kaiya
+ * @author kaiya aa
  *
  */
 public class Player {
